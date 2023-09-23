@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+## Getting Started
+Install all the packages by using command 'npm init'
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Git Clone the project
+In the repository, Go to the Code Button and copy the path of the project (either HTTPS or SSH or Github CLI)
+
+## Cloning the project
+In the visual studio code, open the terminal and write the command 'git clone [URL]' 
+URL - the https path of the project
+
+## Running the project
+
+# Frontend
+Open the terminal and run the command 'npm run start'
+# Server
+Open an another terminal and locate to the server.js file and run the command  'node server'
+
+## Project is now running.
 
 ## Available Scripts
 
