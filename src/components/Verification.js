@@ -1,9 +1,7 @@
 import {React,useState,useEffect}from 'react'
 import { useLocation, useNavigate } from 'react-router-dom';
 import Snackbar from '@mui/material/Snackbar';
-// import IconButton from '@mui/material/IconButton';
-// import IconButton from '@mui/material/IconButton';
-// import CloseIcon from '@mui/icons-material/Close';
+
 import { Alert } from '@mui/material';
 
 const Verification = (props) => {
